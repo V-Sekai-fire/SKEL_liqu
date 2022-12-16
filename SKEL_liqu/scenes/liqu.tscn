@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://verppmgywdf"]
+
+[ext_resource type="PackedScene" uid="uid://cmxhsm010m64m" path="res://SKEL_liqu/art/Liqu.vrm" id="1_w5wtq"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="Liqu" parent="." instance=ExtResource("1_w5wtq")]
